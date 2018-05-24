@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT felix_crowdbotics_198.wsgi:application
